@@ -1,4 +1,6 @@
+![felipe](assets/bn.png)
 **How to reach me...**
+
 - My personal website [felipesantos.dev](https://felipesantos.dev)
 - Doing networking on [LinkedIn](https://www.linkedin.com/in/felipe-snts-rocha/)
 
