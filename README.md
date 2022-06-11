@@ -5,10 +5,23 @@
 - Doing networking on [LinkedIn](https://www.linkedin.com/in/felipe-snts-rocha/)
 
 <details>
-  <summary>GitHub Stats</summary>
-  <img align="left" alt="Felipe's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=felipesntr&show_icons=true&hide_border=true" />
+  <summary>About</summary>
+  <ul>
+  	<li>Frontend developer</li>
+    <li>Computer Engineering student</li>
+    <li>From Brazil</li>
+  <ul>
 </details>
 <details>
-  <summary>Most Used Languages</summary>
-  <img align="left" alt="Felipe's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesntr&hide_border=true" />
+  <summary>Experience</summary>
+  <li>[Apr/2022 - Present] Frontend developer at Anexs Tecnologia</li>
+</details>
+<details>
+  <summary>Technologies</summary>
+  <ul>
+    <li>TypeScript</li>
+    <li>ReactJS</li>
+    <li>NodeJS</li>
+    <li>MongoDB</li>
+  <ul>
 </details>
