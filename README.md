@@ -21,7 +21,7 @@
   <ul>
     <li>TypeScript</li>
     <li>ReactJS</li>
-    <li>NodeJS</li>
-    <li>MongoDB</li>
+    <li>C# ASP.NET</li>
+    <li>SQL Server</li>
   <ul>
 </details>
