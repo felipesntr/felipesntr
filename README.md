@@ -20,7 +20,8 @@
   <summary>Technologies</summary>
   <ul>
     <li>TypeScript</li>
-    <li>ReactJS</li>
+    <li>React.js, Next.js and React Native</li>
+    <li>Node.js</li>
     <li>C# ASP.NET</li>
     <li>SQL Server</li>
   <ul>
