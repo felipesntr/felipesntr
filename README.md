@@ -14,7 +14,7 @@
 </details>
 <details>
   <summary>Experience</summary>
-  <li>[Jun/2022 - Current] Full stack developer at M2M Saber</li>
+  <li>[Jun/2023 - Current] Full stack developer at M2M Saber</li>
   <li>[Apr/2022 - Jun/2023] Full stack developer at Anexs Tecnologia</li>
 </details>
 <details>
