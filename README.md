@@ -7,22 +7,24 @@
 <details>
   <summary>About</summary>
   <ul>
-  	<li>Frontend developer</li>
+  	<li>Full stack developer</li>
     <li>Computer Engineering student</li>
     <li>From Brazil</li>
   <ul>
 </details>
 <details>
   <summary>Experience</summary>
-  <li>[Apr/2022 - Present] Frontend developer at Anexs Tecnologia</li>
+  <li>[Jun/2022 - Current] Full stack developer at M2M Saber</li>
+  <li>[Apr/2022 - Jun/2023] Full stack developer at Anexs Tecnologia</li>
 </details>
 <details>
   <summary>Technologies</summary>
   <ul>
+    <li>C#, .NET Core, EF Core</li>
+    <li>Microsoft Azure</li>
+    <li>SQL Server</li>
     <li>TypeScript</li>
     <li>React.js, Next.js and React Native</li>
     <li>Node.js</li>
-    <li>C# ASP.NET</li>
-    <li>SQL Server</li>
   <ul>
 </details>
