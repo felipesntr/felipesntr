@@ -1,4 +1,5 @@
-![felipe](assets/bn.png)
+<a href="https://app.daily.dev/felipesntr"><img src="https://api.daily.dev/devcards/v2/m6Sh2yO3fszJ3FH1xOBrc.png?r=2yx&type=wide" width="652" alt="Felipe Santos's Dev Card"/></a>
+<br />
 **How to reach me...**
 
 - My personal website [felipesantos.dev](https://felipesantos.dev)
