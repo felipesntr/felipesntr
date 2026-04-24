@@ -13,8 +13,9 @@
 </details>
 <details>
   <summary>Experience</summary>
-  <li>[Jun/2023 - Current] Full stack developer at <a href="https://okai.com.br" target="_blank">Ok.ai</a></li>
-  <li>[Jun/2023 - Current] Full stack developer at <a href="https://m2msaber.com.br" target="_blank">M2M Saber</a></li>
+  <li>[May/2025 - Current] Full stack developer at dopo</li>
+  <li>[Jun/2023 - May/2025] Full stack developer at <a href="https://okai.com.br" target="_blank">Ok.ai</a></li>
+  <li>[Jun/2023 - May/2025] Full stack developer at <a href="https://m2msaber.com.br" target="_blank">M2M Saber</a></li>
   <li>[Apr/2022 - Jun/2023] Full stack developer at Anexs Tecnologia</li>
 </details>
 <details>
